@@ -8,7 +8,7 @@
 <h3 align="center">I am experienced Industrial Automation Programmer and Commissioner. I am skilled in PLC and Robots. I really enjoy using new technology like AI. I've been constantly improving my computer sciene skills like: python programing, data bases, AI and so on.</h3>
 
 
-- 👨‍💻 [Check out my repositories, where it presents various interesting solutions from the world of automation and programming.](https://github.com/panasewicz?tab=repositories)
+- 👨‍💻 Check out my repositories, where it presents various interesting solutions from the world of automation and programming. [LINK](https://github.com/panasewicz?tab=repositories)
 
 - 🔭 I’m currently working on **Industrial Computer Vision.**
 
