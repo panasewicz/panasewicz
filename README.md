@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my repositories, where it presents various interesting solutions from the world of automation and programming.
 
-- 🔭 I’m currently working on **Industrial Computer Vision**
+- 🔭 I’m currently working on **Industrial Computer Vision.**
 
 - 💬 Ask me about **PLC (SIEMENS, ROCKWELL), Robots, Virtual Commissioning, Python.**
 
