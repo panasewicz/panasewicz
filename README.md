@@ -1,5 +1,13 @@
+<p align="center">
+  <a href="https://panasewicz.github.io/matrix-effect/">
+    <img src="https://github.com/panasewicz/matrix-effect/raw/main/Animation.gif" alt="Result GIF">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Filip Panasewicz</h1>
 <h3 align="center">I am experienced Industrial Automation Programmer and Commissioner. I am skilled in PLC and Robots. I really enjoy using new technology like AI. I've been constantly improving my computer sciene skills like: python programing, data bases, AI and so on.</h3>
+
+
 
 - 🔭 I’m currently working on **Industrial Computer Vision**
 
