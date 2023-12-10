@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PLC (SIEMENS, ROCKWELL), Robots, Virtual Commissioning, Python.**
 
-- 🎓 I'm currently learning **DevOps Tools.**
+- 🎓 I'm currently learning **Python Django.**
 
 <h3 align="left">If you want to find out more, hit my LinkedIn:</h3> 
 <p align="left">
