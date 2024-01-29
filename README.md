@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PLC (SIEMENS, ROCKWELL), Robots, Virtual Commissioning, Python.**
 
-- 🎓 I'm currently learning **Python Django.**
+- 🎓 I'm currently devloping **Mobile app in Flutter and Firebase**
 
 <h3 align="left">If you want to find out more, hit my LinkedIn:</h3> 
 <p align="left">
